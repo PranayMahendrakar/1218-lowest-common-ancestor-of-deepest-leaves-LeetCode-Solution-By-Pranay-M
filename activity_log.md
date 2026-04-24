@@ -4,3 +4,4 @@
 - [2026-04-24T17:11:25Z] refactor: clean up unused imports
 - [2026-04-24T20:25:10Z] chore: update dependencies to latest versions
 - [2026-04-24T09:42:39Z] fix: resolve edge case in input validation
+- [2026-04-24T13:54:38Z] test: add unit tests for core module
